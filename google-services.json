@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "603410232876",
+    "project_id": "otpauth-fe98c",
+    "storage_bucket": "otpauth-fe98c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603410232876:android:720284c106547173f58389",
+        "android_client_info": {
+          "package_name": "com.mussafarariaz.AwesomeProject"
+        }
+        
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsyauFpYi8Hj_LnHp5-hldTAh0rIZLk7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
